@@ -1,0 +1,14 @@
+{
+  "prod" : {
+    "siteUrl" : "https://example-prod.org"
+  },
+  "chrome-prod" : {
+    "siteUrl" : "https://example-prod.org"
+  },
+  "default" : {
+    "siteUrl" :  "http://affinity:bridge@dev.example-dev.affinitybridge.com/"
+  },
+  "chrome-dev" : {
+    "siteUrl" :  "http://affinity:bridge@dev.example-dev.affinitybridge.com/"
+  }
+}
